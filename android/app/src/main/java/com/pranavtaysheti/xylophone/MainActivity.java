@@ -1,4 +1,4 @@
-package co.appbrewery.xylophone;
+package com.pranavtaysheti.xylophone;
 
 
 import io.flutter.embedding.android.FlutterActivity;
